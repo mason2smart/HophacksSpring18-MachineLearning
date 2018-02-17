@@ -105,4 +105,4 @@ venv.bak/
 .mypy_cache/
 
 data
-resnet50_2017_11_30
+resnet_data
