@@ -2,7 +2,7 @@
 ## Unsupervised Machine Learning Algorithm
 *Clusters Two Different Image Sets (5000 Images Each) Into 5 Categories Without Provided Categorical Labels*
 
-Won 2nd Place in MINDS Data Science Challenge At Hophacks Spring 2018
+**Won 2nd Place in MINDS Data Science Challenge At Hophacks Spring 2018**
 
 
 
